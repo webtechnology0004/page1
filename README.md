@@ -1,2 +1,2 @@
 # page1
-learning
+learning a new thing
